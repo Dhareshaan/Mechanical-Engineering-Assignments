@@ -54,6 +54,6 @@ The goal is to develop skills in:
 
 ## The Drawing Compass 3D and 2D View
 
-![Assignment PDF](Drawing_Compass_Assignment)
+![Assignment PDF](Drawing_Compass_Assignment.pdf)
 
 <!-- This is a comment. It will NOT appear in the GitHub preview. -->
